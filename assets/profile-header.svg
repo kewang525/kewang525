@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ke Wang profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F2EB"/>
+      <stop offset="48%" stop-color="#EEF4F1"/>
+      <stop offset="100%" stop-color="#F3F0FA"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity=".64">
+    <circle cx="84" cy="52" r="66" fill="#E7C8C8"/>
+    <circle cx="1080" cy="188" r="92" fill="#C8DCCF"/>
+    <circle cx="860" cy="22" r="60" fill="#D8CDEA"/>
+    <circle cx="330" cy="242" r="76" fill="#F0D6AF"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" opacity=".56">
+    <path d="M0 184C188 138 306 250 500 195S827 111 1200 155" stroke-width="2"/>
+    <path d="M0 206C212 162 344 266 526 211S901 133 1200 179" stroke-width="1.5"/>
+  </g>
+  <g fill="#4A5560">
+    <text x="76" y="112" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="700">王可 · Ke Wang</text>
+    <text x="76" y="157" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18">行业运营 · 商家 &amp; 商品运营 · 搜索运营 · 产品运营</text>
+    <text x="76" y="192" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#69737B">2027届同济大学应届硕士</text>
+  </g>
+  <circle cx="1088" cy="79" r="30" fill="#FFFFFF" opacity=".66"/>
+  <path d="M1088 60v38M1069 79h38" stroke="#B78A8A" stroke-width="2" stroke-linecap="round" opacity=".78"/>
+</svg>
