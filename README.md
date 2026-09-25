@@ -60,13 +60,28 @@ Beyond internships, I built and operated an ASMR channel on Bilibili from scratc
 - Independently managed end-to-end livestream price follow-up; filled gaps for **38 products** and raised price competitiveness from **50% to 60%**. Campaign GMV grew **26.93% YoY**, compared with **6.02%** for the overall market.
 - Maintained the subsidy pool for **13 major-launch cycles**; supported **11,085 deduplicated SKUs**, driving **RMB 26.624 million** incremental paid GMV and **RMB 3.075 million** incremental unit economics.
 
-### 🤖 Personal Operations Workbench · AI-assisted Category Dashboard
+### 🤖 Project Case · AI-assisted Cross-border Merchant Operations Workbench
 **Independent workflow project | 2026**
 
-- Built a personal, AI-assisted operations workbench to monitor cross-border merchant potential and support category-level merchant selection.
-- Connected recurring research, merchant segmentation and operational diagnosis into a reusable workflow, reducing repetitive manual work and making follow-up actions easier to prioritize.
+Rather than treating merchant research as a one-off task, I built a reusable AI-assisted workbench to turn category operations into a repeatable decision workflow.
 
-> *A portfolio case study / demo can be added here when public-facing materials are ready.*
+```mermaid
+flowchart LR
+    A[Merchant & category signals] --> B[Potential screening]
+    B --> C[Merchant segmentation]
+    C --> D[Diagnosis: product · pricing · content · fulfillment]
+    D --> E[Prioritized BD & follow-up actions]
+```
+
+**How it works**
+
+- **Inputs:** category research, merchant operating signals and recurring cross-border product observations.
+- **Decision layer:** screens merchant potential and structures diagnosis across product selection, pricing, content, storefront and fulfillment readiness.
+- **Operational output:** produces prioritized merchant pools and follow-up action suggestions, making category selection and merchant BD easier to repeat and track.
+
+**Why it matters:** It reduces repetitive manual research while keeping the final judgement grounded in operational context — supporting faster merchant prioritization rather than replacing operator decision-making.
+
+> *This case is presented as a workflow overview only; it contains no internal data, merchant information or business-sensitive materials.*
 
 ### 🎧 Creator Operations · Bilibili ASMR Channel
 **Independent creator | Sep 2020 – Jan 2023**
@@ -74,6 +89,44 @@ Beyond internships, I built and operated an ASMR channel on Bilibili from scratc
 - Built an ASMR channel from zero to **4,700+ peak followers** and **356,000 total views**.
 - Independently owned topic selection, video production and fan-community operations — an early hands-on foundation in content operations and audience engagement.
 - [Visit my Bilibili channel →](https://space.bilibili.com/178619934?spm_id_from=333.1007.0.0)
+
+## Portfolio · More Work
+
+### 🧸 Merchant Growth Proposal · Cross-border Handmade Brand
+**Merchant operations assessment | 2026**
+
+A simulated end-to-end merchant outreach and onboarding proposal for an independent handmade felt-toy studio entering cross-border direct shipping.
+
+- **Opportunity framing:** assessed overseas product supply and price references, then matched the merchant's differentiated product style with potential buyer demand.
+- **Merchant communication:** designed a first-contact script and objection-handling logic around time investment, overseas operating complexity and demand uncertainty.
+- **Growth plan:** proposed a lightweight test strategy — start with proven hero products, reuse existing content assets, optimize bilingual product pages and iterate based on exposure-to-conversion signals.
+
+**Demonstrated skills:** merchant research · value proposition design · BD communication · cross-border product positioning · content and product-detail-page optimization.
+
+> *This is a simulated assessment case. All merchant information is fictionalized or used only for learning purposes.*
+
+### 🎨 Campus Event Visual System · “Fengyun Jihui”
+**Visual design project | 2024**
+
+Designed a cohesive visual identity and physical ticket system for a campus semester-summary and awards event, balancing a Chinese-inspired aesthetic with clear event information.
+
+| Main visual | Ticket extension | Event ticket |
+| :---: | :---: | :---: |
+| <img src="assets/portfolio/fengyun-main-visual.jpeg" alt="Fengyun Jihui main visual" width="220" /> | <img src="assets/portfolio/fengyun-ticket-stub.jpeg" alt="Fengyun Jihui ticket extension" width="220" /> | <img src="assets/portfolio/fengyun-event-ticket.jpeg" alt="Fengyun Jihui event ticket" width="220" /> |
+
+- Created the core visual using a red-and-gold palette, ink-style mountains, clouds and maple-leaf motifs.
+- Extended the system from the event's main artwork to functional admission-ticket materials, integrating campus-landmark elements and attendee information.
+
+**Demonstrated skills:** Photoshop · visual hierarchy · event branding · print-material adaptation.
+
+### ✍️ Editorial & Layout · WeChat Official Account
+**Campus media project**
+
+Wrote and formatted a WeChat Official Account feature on a rural tourism and agricultural-integration development case in Qigan Village, Zhoupu Town, Pudong, Shanghai.
+
+- [Read the published article: *Rural Revitalization in Shanghai — A New Path for Agritourism Integration in Qigan Village* →](https://mp.weixin.qq.com/s/B8SFT9YUrCLJ3-6GoKnF1A)
+
+**Demonstrated skills:** topic research · long-form editorial writing · mobile-first layout · public-account content production.
 
 ## How I Work
 
