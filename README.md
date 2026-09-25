@@ -1,17 +1,19 @@
 <div align="center">
 
-# 王可 · Ke Wang
+<img src="assets/profile-header.svg" alt="王可 Ke Wang｜2027届同济大学应届硕士" width="100%" />
 
-### 电商运营｜商家增长｜商品 & 产品运营  
-### E-commerce Operations · Merchant Growth · Product & Category Operations
+### 行业运营｜商家 & 商品运营｜搜索运营｜产品运营  
+### Industry Operations · Merchant & Product Operations · Search Operations · Product Operations
+
+**2027届同济大学应届硕士** · Master's Candidate, Tongji University · Class of 2027
 
 <a href="#中文">中文</a> · <a href="#english">English</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-E--commerce%20%7C%20Merchant%20Ops-ff3d71?style=for-the-badge" alt="Open to opportunities" />
-<img src="https://img.shields.io/badge/BASED%20IN-Shanghai-6c63ff?style=for-the-badge" alt="Based in Shanghai" />
-<img src="https://img.shields.io/badge/FOCUS-Data--driven%20Growth-12b886?style=for-the-badge" alt="Data-driven growth" />
+<img src="https://img.shields.io/badge/OPEN%20TO-Operations%20Roles-e7c8c8?style=for-the-badge&labelColor=fbf7f4&color=e7c8c8" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/BASED%20IN-Shanghai-cfded6?style=for-the-badge&labelColor=f5f8f6&color=cfded6" alt="Based in Shanghai" />
+<img src="https://img.shields.io/badge/FOCUS-Data--informed%20Growth-d7cce6?style=for-the-badge&labelColor=f8f6fb&color=d7cce6" alt="Data-informed growth" />
 
 </div>
 
@@ -22,7 +24,7 @@
 ## 🌈 中文
 
 ### 👋 关于我
-同济大学硕士在读，专注**电商运营、行业/类目运营、商家运营、商品运营与产品运营**。我喜欢把零散的商家、商品和用户信号，变成可执行的增长动作。
+**2027届同济大学应届硕士**，求职方向为**行业运营、商家 & 商品运营、搜索运营与产品运营**。我喜欢把零散的商家、商品和用户信号，变成可执行的增长动作。
 
 目前积累了小红书 Redshop 跨境商家运营、丝芙兰电商站点优化、得物美妆商品运营经验；也持续用 AI 工具优化运营流程。
 
@@ -95,7 +97,7 @@
 ## 🌍 English
 
 ### 👋 About Me
-Master's student at **Tongji University**, pursuing opportunities in **e-commerce, marketplace, merchant, category and product operations**. I turn merchant, product and user signals into practical growth actions.
+**2027 master's candidate at Tongji University**, pursuing opportunities in **industry operations, merchant & product operations, search operations and product operations**. I turn merchant, product and user signals into practical growth actions.
 
 Experience across cross-border merchant growth at **Redshop**, e-commerce site optimization at **Sephora**, and beauty category operations at **Dewu** — with a strong interest in AI-enabled operational workflows.
 
