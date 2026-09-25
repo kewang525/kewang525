@@ -1,154 +1,130 @@
+<div align="center">
+
 # 王可 · Ke Wang
 
-> **E-commerce & Marketplace Operations | Merchant Growth | Product & Category Operations**  
-> Turning merchant, product and user signals into practical growth actions.
+### 电商运营｜商家增长｜商品 & 产品运营  
+### E-commerce Operations · Merchant Growth · Product & Category Operations
 
-[![Open to opportunities](https://img.shields.io/badge/Open%20to-E--commerce%20%7C%20Marketplace%20Ops-ff2442?style=flat-square)](#contact)
-[![Location](https://img.shields.io/badge/Location-Shanghai%20%2F%20China-3b82f6?style=flat-square)](#about-me)
-[![Focus](https://img.shields.io/badge/Focus-Data--driven%20Growth-14b8a6?style=flat-square)](#skills--tools)
+<a href="#中文">中文</a> · <a href="#english">English</a>
 
-## About Me
+<br/>
 
-Hi, I'm **Ke Wang (王可)** — a master's student at **Tongji University** and an aspiring operations professional focused on **e-commerce, marketplace, merchant, category and product operations**.
+<img src="https://img.shields.io/badge/OPEN%20TO-E--commerce%20%7C%20Merchant%20Ops-ff3d71?style=for-the-badge" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/BASED%20IN-Shanghai-6c63ff?style=for-the-badge" alt="Based in Shanghai" />
+<img src="https://img.shields.io/badge/FOCUS-Data--driven%20Growth-12b886?style=for-the-badge" alt="Data-driven growth" />
 
-I enjoy turning complicated operational questions into clear actions: identifying high-potential merchants, diagnosing product and conversion bottlenecks, improving search and on-site journeys, and coordinating stakeholders to get initiatives launched. My recent experiences span **cross-border merchant operations at Redshop (Xiaohongshu)**, **e-commerce site optimization at Sephora**, and **beauty category operations at Dewu**.
-
-Beyond internships, I built and operated an ASMR channel on Bilibili from scratch. That experience gave me a creator's perspective on content planning, production and community engagement — a perspective I bring into merchant and platform operations.
-
-- 🎯 **Seeking:** Internet e-commerce operations, industry/category operations, merchant operations, product operations, and business development roles
-- 📍 **Based in:** Shanghai / Anhui, China
-- 🌱 **Currently exploring:** AI agents for operational workflows, cross-border marketplace growth, and data-informed decision-making
-
-## Skills & Tools
-
-**Operations & analysis**
-
-`Merchant segmentation` · `Merchant BD & lifecycle operations` · `Category operations` · `Product pricing & benchmarking` · `Cross-border product selection` · `Competitor research` · `Funnel analysis` · `Promotion operations` · `Search operations` · `NPS / VOC analysis`
-
-**Data & productivity**
-
-`SQL` · `Excel PivotTables` · `XLOOKUP` · `Data visualization` · `PowerPoint` · `AI agent workflows`
-
-**Content & collaboration**
-
-`Content planning` · `Copywriting` · `Visual asset production` · `Photoshop` · `Adobe Illustrator` · `Cross-functional coordination` · `English reading & business communication`
-
-## Selected Experience & Projects
-
-### 🌏 Cross-border Merchant Growth · Redshop / Xiaohongshu
-**Cross-border Merchant Operations Intern | Aug 2026 – Present**
-
-- Managed operations across **5 primary categories and 600+ merchants**; used AI-assisted category dashboards to identify **100+ P0 merchants** and conducted 1:1 interviews with **20+ category-leading merchants**.
-- Developed tailored merchant-growth actions across product selection, packaging & logistics, storefronts, content, product detail pages and pricing. The key BD merchant pool achieved an order placement rate of **20%+**.
-- Supported promotion conversion by assessing subsidy pricing thresholds and building target merchant pools; reached **100+ merchants** and converted **12%**.
-- Planned the publishing rhythm and themes for **@redshop_official** campaigns, owning product selection, creative assets and copywriting through to publication.
-
-**What I learned:** cross-border growth needs both a category-level view and granular merchant diagnosis — especially around fulfillment, pricing and content readiness.
-
-### 🔎 E-commerce Search & Site Optimization · Sephora
-**E-commerce Site Optimization Intern | Apr 2026 – Aug 2026**
-
-- Audited the top **1,500 search terms**, identified **104** recall and ranking issues, and supported the launch of search operations features with **1,200+ SKU tags** configured.
-- Optimized initial product naming for the top **120** products based on external research and on-site search trends, contributing to a **+1.48 pts QoQ** lift in search CTR in Q2.
-- As a core operations contributor to an AI search migration, tested the top **400 terms** over **6 rounds**, categorized **15 issues across 5 bad-case types**, and coordinated **3 rounds** of product and engineering improvements.
-- Cleaned and analyzed **30,000+ NPS records** and produced three monthly reports; this work informed page-speed improvements, with related negative feedback down **20% MoM** in July and NPS up **2.6 pts MoM**.
-
-### 💄 Beauty Category Pricing · Dewu
-**Beauty Category Operations Intern | Jan 2026 – Apr 2026**
-
-- Delivered price benchmarking and anchor-price recommendations for **4,222 SKUs** of major launches, **138 designated SKUs**, and **603 top SKUs** from Li Jiaqi livestream campaigns.
-- Independently managed end-to-end livestream price follow-up; filled gaps for **38 products** and raised price competitiveness from **50% to 60%**. Campaign GMV grew **26.93% YoY**, compared with **6.02%** for the overall market.
-- Maintained the subsidy pool for **13 major-launch cycles**; supported **11,085 deduplicated SKUs**, driving **RMB 26.624 million** incremental paid GMV and **RMB 3.075 million** incremental unit economics.
-
-### 🤖 Project Case · AI-assisted Cross-border Merchant Operations Workbench
-**Independent workflow project | 2026**
-
-Rather than treating merchant research as a one-off task, I built a reusable AI-assisted workbench to turn category operations into a repeatable decision workflow.
-
-```mermaid
-flowchart LR
-    A[Merchant & category signals] --> B[Potential screening]
-    B --> C[Merchant segmentation]
-    C --> D[Diagnosis: product · pricing · content · fulfillment]
-    D --> E[Prioritized BD & follow-up actions]
-```
-
-**How it works**
-
-- **Inputs:** category research, merchant operating signals and recurring cross-border product observations.
-- **Decision layer:** screens merchant potential and structures diagnosis across product selection, pricing, content, storefront and fulfillment readiness.
-- **Operational output:** produces prioritized merchant pools and follow-up action suggestions, making category selection and merchant BD easier to repeat and track.
-
-**Why it matters:** It reduces repetitive manual research while keeping the final judgement grounded in operational context — supporting faster merchant prioritization rather than replacing operator decision-making.
-
-> *This case is presented as a workflow overview only; it contains no internal data, merchant information or business-sensitive materials.*
-
-### 🎧 Creator Operations · Bilibili ASMR Channel
-**Independent creator | Sep 2020 – Jan 2023**
-
-- Built an ASMR channel from zero to **4,700+ peak followers** and **356,000 total views**.
-- Independently owned topic selection, video production and fan-community operations — an early hands-on foundation in content operations and audience engagement.
-- [Visit my Bilibili channel →](https://space.bilibili.com/178619934?spm_id_from=333.1007.0.0)
-
-## Portfolio · More Work
-
-### 🧸 Merchant Growth Proposal · Cross-border Handmade Brand
-**Merchant operations assessment | 2026**
-
-A simulated end-to-end merchant outreach and onboarding proposal for an independent handmade felt-toy studio entering cross-border direct shipping.
-
-- **Opportunity framing:** assessed overseas product supply and price references, then matched the merchant's differentiated product style with potential buyer demand.
-- **Merchant communication:** designed a first-contact script and objection-handling logic around time investment, overseas operating complexity and demand uncertainty.
-- **Growth plan:** proposed a lightweight test strategy — start with proven hero products, reuse existing content assets, optimize bilingual product pages and iterate based on exposure-to-conversion signals.
-
-**Demonstrated skills:** merchant research · value proposition design · BD communication · cross-border product positioning · content and product-detail-page optimization.
-
-> *This is a simulated assessment case. All merchant information is fictionalized or used only for learning purposes.*
-
-### 🎨 Campus Event Visual System · “Fengyun Jihui”
-**Visual design project | 2024**
-
-Designed a cohesive visual identity and physical ticket system for a campus semester-summary and awards event, balancing a Chinese-inspired aesthetic with clear event information.
-
-| Main visual | Ticket extension | Event ticket |
-| :---: | :---: | :---: |
-| <img src="assets/portfolio/fengyun-main-visual.jpeg" alt="Fengyun Jihui main visual" width="220" /> | <img src="assets/portfolio/fengyun-ticket-stub.jpeg" alt="Fengyun Jihui ticket extension" width="220" /> | <img src="assets/portfolio/fengyun-event-ticket.jpeg" alt="Fengyun Jihui event ticket" width="220" /> |
-
-- Created the core visual using a red-and-gold palette, ink-style mountains, clouds and maple-leaf motifs.
-- Extended the system from the event's main artwork to functional admission-ticket materials, integrating campus-landmark elements and attendee information.
-
-**Demonstrated skills:** Photoshop · visual hierarchy · event branding · print-material adaptation.
-
-### ✍️ Editorial & Layout · WeChat Official Account
-**Campus media project**
-
-Wrote and formatted a WeChat Official Account feature on a rural tourism and agricultural-integration development case in Qigan Village, Zhoupu Town, Pudong, Shanghai.
-
-- [Read the published article: *Rural Revitalization in Shanghai — A New Path for Agritourism Integration in Qigan Village* →](https://mp.weixin.qq.com/s/B8SFT9YUrCLJ3-6GoKnF1A)
-
-**Demonstrated skills:** topic research · long-form editorial writing · mobile-first layout · public-account content production.
-
-## How I Work
-
-I bring three working principles to operations roles:
-
-1. **Learn fast, build from zero.** I am comfortable entering new domains, testing tools and making ambiguous work executable — from creator operations to AI-search migration and AI-assisted workflows.
-2. **Be reliable with data.** I can patiently work through large, repetitive datasets, translate patterns into structured analysis, and provide dependable operational support.
-3. **Move work across teams.** I enjoy coordinating operations, product, design and technical stakeholders, aligning practical details so that initiatives can move forward.
-
-## Education
-
-- **Tongji University (985)** — M.A. in Marxist Theory, 2024.09 – 2027.06 · GPA 4.44 / top 26%
-- **Xinjiang University (211)** — B.A. in Ideological & Political Education; minor in Chinese Language & Literature, 2020.09 – 2024.06 · GPA 4.04 / top 8%
-
-## Contact
-
-I’m open to conversations about e-commerce operations, marketplace growth and collaboration opportunities.
-
-- 📧 Email: `1214594354@qq.com`
-- 🎬 Bilibili: [@王可的 ASMR channel](https://space.bilibili.com/178619934?spm_id_from=333.1007.0.0)
-- 💼 LinkedIn: *Coming soon*
+</div>
 
 ---
 
-<sub>Built with curiosity, operational rigor and a bias for action.</sub>
+<a id="中文"></a>
+
+## 🌈 中文
+
+### 👋 关于我
+同济大学硕士在读，专注**电商运营、行业/类目运营、商家运营、商品运营与产品运营**。我喜欢把零散的商家、商品和用户信号，变成可执行的增长动作。
+
+目前积累了小红书 Redshop 跨境商家运营、丝芙兰电商站点优化、得物美妆商品运营经验；也持续用 AI 工具优化运营流程。
+
+### 🧩 能力关键词
+`商家分层与 BD` · `选品与竞品分析` · `商品价格力` · `促销转化` · `搜索运营` · `漏斗/NPS 分析` · `SQL` · `Excel` · `AI Agent` · `PS / AI`
+
+### 🚀 代表经历
+
+| 🧭 场景 | 我做了什么 | 结果 |
+| :--- | :--- | :--- |
+| **Redshop 跨境商家运营** | 覆盖 5 个一级类目、600+ 商家；选商、陪跑与活动转化 | 筛选 100+ P0 商家；重点 BD 池出单率 20%+ |
+| **丝芙兰站点优化** | 搜索诊断、AI 搜索上线测试、NPS 洞察 | Q2 搜索 CTR +1.48pts；7 月相关负反馈 -20% |
+| **得物商品运营** | 美妆/个护/母婴价格力与补贴运营 | 直播间价优率 50%→60%；活动 GMV 同比 +26.93% |
+
+### 🗂️ 作品集
+
+<details>
+<summary><b>🤖 AI 辅助跨境商家运营工作台</b> · 从商机到跟进动作的可复用流程</summary>
+<br/>
+
+`商家/类目信号` → `潜力筛选` → `商家分层` → `商品·价格·内容·履约诊断` → `BD 跟进`
+
+用 AI 辅助整理重复研究与诊断环节，让选商和跟进更聚焦。仅展示工作流，不含内部数据或商家敏感信息。
+</details>
+
+<details>
+<summary><b>🧸 跨境手作商家运营方案</b> · 模拟案例</summary>
+<br/>
+
+围绕毛毡玩偶工作室，完成海外机会判断、首次触达、顾虑处理与轻量起步方案；重点是把“为什么值得做、怎么低成本试水”说清楚。
+
+`商家调研` · `BD 话术` · `跨境定位` · `内容/商详优化`
+</details>
+
+<details>
+<summary><b>🎨 「枫云济会」校园活动视觉系统</b> · PS 设计</summary>
+<br/>
+
+<table><tr>
+<td width="33%" align="center"><img src="assets/portfolio/fengyun-main-visual.jpeg" alt="枫云济会主视觉" width="220" /><br/><sub>主视觉</sub></td>
+<td width="33%" align="center"><img src="assets/portfolio/fengyun-ticket-stub.jpeg" alt="枫云济会票券延展" width="220" /><br/><sub>票券延展</sub></td>
+<td width="33%" align="center"><img src="assets/portfolio/fengyun-event-ticket.jpeg" alt="枫云济会活动入场券" width="220" /><br/><sub>完整入场券</sub></td>
+</tr></table>
+
+从主视觉到票券物料的完整延展，兼顾国风氛围、信息层级与线下活动使用场景。
+</details>
+
+<details>
+<summary><b>✍️ 公众号内容编辑与排版</b></summary>
+<br/>
+
+[阅读推文：上海浦东棋杆村的农旅融合新道路 →](https://mp.weixin.qq.com/s/B8SFT9YUrCLJ3-6GoKnF1A)
+
+`选题研究` · `长文写作` · `移动端排版`
+</details>
+
+### 🎧 内容创作
+从 0 运营 Bilibili ASMR 账号，峰值粉丝 **4,700+**、累计播放 **35.6 万**；独立完成选题、视频制作与社群运营。  
+[访问我的 Bilibili 主页 →](https://space.bilibili.com/178619934?spm_id_from=333.1007.0.0)
+
+### 📬 联系我
+`1214594354@qq.com` · 上海 / 安徽 · 正在寻找电商与平台运营相关机会
+
+<br/>
+
+---
+
+<a id="english"></a>
+
+## 🌍 English
+
+### 👋 About Me
+Master's student at **Tongji University**, pursuing opportunities in **e-commerce, marketplace, merchant, category and product operations**. I turn merchant, product and user signals into practical growth actions.
+
+Experience across cross-border merchant growth at **Redshop**, e-commerce site optimization at **Sephora**, and beauty category operations at **Dewu** — with a strong interest in AI-enabled operational workflows.
+
+### 🧩 Skills
+`Merchant Growth & BD` · `Category Operations` · `Pricing & Benchmarking` · `Promotion Conversion` · `Search Operations` · `Funnel / NPS Analysis` · `SQL` · `Excel` · `AI Agents` · `Photoshop / Illustrator`
+
+### 🚀 Highlights
+
+| 🧭 Experience | Scope | Impact |
+| :--- | :--- | :--- |
+| **Redshop · Cross-border Merchant Ops** | 5 categories, 600+ merchants | 100+ P0 merchants identified; 20%+ order rate in key BD pool |
+| **Sephora · Site Optimization** | Search, AI-search testing, NPS | Search CTR +1.48 pts QoQ; related negative feedback -20% MoM |
+| **Dewu · Category Operations** | Beauty pricing & subsidy operations | Price competitiveness 50%→60%; campaign GMV +26.93% YoY |
+
+### 🗂️ Selected Work
+
+- **AI-assisted Merchant Operations Workbench** — a reusable flow for potential screening, merchant diagnosis and BD prioritization. *Workflow only; no internal data.*
+- **Cross-border Handmade Brand Proposal** — simulated merchant research, outreach messaging and low-risk market-entry plan.
+- **Campus Event Visual System** — main visual and ticket applications for “Fengyun Jihui”.
+- **WeChat Editorial Project** — [read the published feature →](https://mp.weixin.qq.com/s/B8SFT9YUrCLJ3-6GoKnF1A)
+
+### 🎧 Creator Experience
+Built and operated a Bilibili ASMR channel from zero to **4,700+ peak followers** and **356K total views**.  
+[Visit my Bilibili channel →](https://space.bilibili.com/178619934?spm_id_from=333.1007.0.0)
+
+### 📬 Contact
+`1214594354@qq.com` · Shanghai / Anhui, China · Open to relevant opportunities
+
+<div align="center">
+<br/>
+<sub>Built with curiosity · operational rigor · a bias for action</sub>
+</div>
